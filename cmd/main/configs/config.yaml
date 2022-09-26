@@ -1,0 +1,30 @@
+###  apilayer.com ###
+# Free Plan
+# $ 0.00 / mo
+# 20 Requests / Daily
+# 100 Requests / Monthly
+# Free for Lifetime
+# No Credit Card Required
+
+countries:
+  apiKey: "xfhCd.....I"
+
+# ---------------------------------------------
+###  apilayer.com ###
+# Free Plan
+# $ 0.00 / mo
+# 20 Requests / Daily
+# 100 Requests / Monthly
+# Free for Lifetime
+# No Credit Card Required
+
+phoneValidator:
+  apiKey: "xfhCd.....I"
+
+# ---------------------------------------------
+###  twillio.com ###
+#
+sendSms:
+  accountSid: "ABC123..........ABC123"
+  authToken: "ABC123..........ABC123"
+  fromPhone: "+15555555555"

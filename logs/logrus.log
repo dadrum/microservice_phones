@@ -1,0 +1,2 @@
+time="2022-09-25T11:50:23+03:00" level=info msg="Logger was initialized with `debug` level"
+time="2022-09-25T11:50:23+03:00" level=fatal msg="Error on config initialization with:  Config File \"config\" Not Found in \"[/Users/pavel/programming/_GO/micro_service_phone/configs]\""
